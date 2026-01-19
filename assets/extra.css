@@ -1,0 +1,22 @@
+/* 父 li 用 flex 布局 */
+.md-nav__list li.md-nav__item {
+    display: flex;
+    align-items: center;
+}
+
+/* 子 ul 不占据 flex 空间 */
+.md-nav__list li.md-nav__item ul.md-nav__list {
+    flex: 1 1 100%;
+    margin-left: 1em;
+}
+
+/* 箭头样式 */
+.md-nav__list li.md-nav__item span.toggle-arrow {
+    display: inline-block;
+    width: 1em;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    margin-right: 0.3em;
+    font-size: 0.9em;
+}
