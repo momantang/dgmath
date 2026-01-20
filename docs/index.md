@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Welcome to 我的资料小站
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 资料:
+* [初中数学中考基础复习](基础复习/index.md){:target="_blank" rel="noopener"} - 更新中.
 
-## Commands
+## About Me
+b站小up:[莫说数](https://space.bilibili.com/507148599){:target="_blank" rel="noopener"} 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

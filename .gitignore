@@ -1,1 +1,5 @@
 site/*
+plugins/*
+mkdocs_marp_ignore/*
+setup.py
+img_tag_relative.egg-info/*

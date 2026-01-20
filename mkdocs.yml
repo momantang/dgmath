@@ -1,1 +1,139 @@
-site_name: My Docs
+# =========================
+# 基本信息
+# =========================
+site_name: 我的资料小站
+site_description: 初中数学知识点与作业讲解
+site_author: 莫说数
+site_url: http://127.0.0.1:8000/
+
+# =========================
+# 主题设置（Material）
+# =========================
+
+# 主题设置（Material）
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs        # 顶部标签
+    - navigation.sections    # 左侧分组
+  #  - navigation.expand      # 默认展开导航
+    - navigation.top         # 返回顶部
+    - toc.integrate          # 页面内目录（自动）
+    - search.highlight
+    - search.suggest
+  palette:
+    - scheme: default       # 黑板风
+      primary: indigo      
+      accent: deep-orange
+  font:
+    text: "Microsoft YaHei"  # 中文正文用微软雅黑
+    code: "Fira Code"       # 代码字体
+    # 打印优化
+  print:
+    collapse: false          # 打印时展开全部
+    hide-elements:
+      - toc                 # 打印时隐藏侧边栏
+
+
+# Markdown 扩展（自动目录 + 数学友好）
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - admonition
+  - footnotes
+  - meta
+  - def_list
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# =========================
+# 数学公式渲染（MathJax）
+# =========================
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# =========================
+# 插件（保持最少，最稳定）
+# =========================
+plugins:
+  - search   # 如需搜索，取消注释即可
+  - marp-ignore
+  - img-tag-relative:
+      base_path: docs
+      process_md_images: false
+
+# =========================
+# 导航结构（示例）
+# =========================
+nav:
+  - 首页: index.md
+  - 基础复习:
+        - 概述: 基础复习/index.md
+        - 数与式:
+            - 第1课 实数: 基础复习/1_实数.md
+            - 第2课 整式: 基础复习/2_整式.md
+            - 第3课 二次根式: 基础复习/3_二次根式.md
+            - 第4课 分式: 基础复习/4_分式.md
+        - 方程与不等式:
+            - 第5课 一次方程: 基础复习/5_一次方程.md
+            - 第6课 一元二次方程: 基础复习/6_一元二次方程.md
+            - 第7课 分式方程: 基础复习/7_分式方程.md
+            - 第8课 不等式: 基础复习/8_不等式.md
+            - 第9课 方程不等式综合: 基础复习/9_方程不等式综合.md
+        - 函数:
+            - 第10课 坐标系及函数: 基础复习/10_坐标系及函数.md
+            - 第11课 一次函数: 基础复习/11_一次函数.md
+            - 第12课 反比例函数: 基础复习/12_反比例函数.md
+            - 第13课 二次函数: 基础复习/13_二次函数.md
+            - 第14课 二次函数2: 基础复习/14_二次函数2.md
+        - 统计与概率:
+            - 第15课 统计: 基础复习/15_统计.md
+            - 第16课 概率: 基础复习/16_概率.md
+        - 三角形: 
+            - 第17课 图形初步: 基础复习/17_图形初步.md
+            - 第18课 三角形与多边形: 基础复习/18_三角形与多边形.md
+            - 第19课 全等三角形: 基础复习/19_全等三角形.md
+            - 第20课 特殊三角形: 基础复习/20_特殊三角形.md
+            - 第21课 相似: 基础复习/21_相似.md
+            - 第22课 锐角三角函数: 基础复习/22_锐角三角函数.md
+            - 第23课 解直角三角形的应用: 基础复习/23_解直角三角形的应用.md
+#        - 四边形:
+#            - 第6课 实数: tun1/realnumber.md
+#        - 圆 :
+#            - 第7课 实数: tun1/realnumber.md
+#        - 图形变换及作图:
+#            - 第8课 实数: tun1/realnumber.md
+
+
+
+#  - 七年级:
+#      - 直角三角形:
+#          - 基本性质: grade7/right_triangle/basic.md
+#          - 常见模型: grade7/right_triangle/models.md
+#      - 全等三角形:
+#          - 判定方法: grade7/congruence/rules.md
+#          - 四大模型: grade7/congruence/models.md
+
+#  - 八年级:
+#      - 轴对称:
+#          - 基本概念: grade8/symmetry/basic.md
+#          - 典型题型: grade8/symmetry/problems.md
+#  - 作业与下载:
+#      - 作业: homework/index.md
+#      - 答案: homework/answers.md
+#      - 资料下载: files/index.md
+
+extra_css:
+  - assets/stylesheets/compact.css
+
+# 页脚
+copyright: © 2026 by 莫说数
