@@ -25,10 +25,11 @@
 - [第19课 全等三角形](19_全等三角形.md)  
 - [第20课 特殊三角形](20_特殊三角形.md)        [下载 PPT](files/20_特殊三角形.pptx){: .btn-mini .md-button--primary }
 - [第21课 相似](21_相似.md)                   [下载 PPT](files/21_相似.pptx){: .btn-mini .md-button--primary }
-- [第22课 锐角三角函数](22_锐角三角函数.md)  
+- [第22课 锐角三角函数](22_锐角三角函数.md)     [下载 PPT](files/22_锐角三角函数.pptx){: .btn-mini .md-button--primary }
 - [第23课 解直角三角形的应用](23_解直角三角形的应用.md)  
 ## 四边形  
-- [第24课 平行四边形](24_平行四边形.md)
+- [第24课 平行四边形](24_平行四边形.md)       [下载 PPT](files/24_平行四边形.pptx){: .btn-mini .md-button--primary }
+- [第25课 矩形与菱形](25_矩形与菱形.md)       [下载 PPT](files/25_矩形与菱形.pptx){: .btn-mini .md-button--primary }
 ## 圆  
 - [第27课 圆的概念及性质](27_圆的概率及性质.md)
 ## 图形变换及作图  
