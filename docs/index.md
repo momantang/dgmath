@@ -1,4 +1,4 @@
-# Welcome to 我的资料小站
+# Welcome to 资料小站
 
 ## 资料:
 * [初中数学中考基础复习](基础复习/index.md){:target="_blank" rel="noopener"} - 更新中.
