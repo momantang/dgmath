@@ -5,7 +5,7 @@
          <lastmod>2026-01-23</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/index%20copy/</loc>
+         <loc>http://127.0.0.1:8000/indexcopy/</loc>
          <lastmod>2026-01-23</lastmod>
     </url>
     <url>
@@ -78,6 +78,10 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0/25_%E7%9F%A9%E5%BD%A2%E4%B8%8E%E8%8F%B1%E5%BD%A2/</loc>
+         <lastmod>2026-01-23</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0/26_%E6%AD%A3%E6%96%B9%E5%BD%A2/</loc>
          <lastmod>2026-01-23</lastmod>
     </url>
     <url>
