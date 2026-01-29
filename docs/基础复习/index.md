@@ -30,6 +30,7 @@
 ## 四边形  
 - [第24课 平行四边形](24_平行四边形.md)       [下载 PPT](files/24_平行四边形.pptx){: .btn-mini .md-button--primary }
 - [第25课 矩形与菱形](25_矩形与菱形.md)       [下载 PPT](files/25_矩形与菱形.pptx){: .btn-mini .md-button--primary }
+- [第26课 正方形](26_正方形.md)       [下载 PPT](files/26_正方形.pptx){: .btn-mini .md-button--primary }
 ## 圆  
 - [第27课 圆的概念及性质](27_圆的概率及性质.md)
 ## 图形变换及作图  
