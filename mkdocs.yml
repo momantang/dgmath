@@ -112,12 +112,14 @@ nav:
             - 第25课 矩形与菱形: 基础复习/25_矩形与菱形.md
             - 第26课 正方形: 基础复习/26_正方形.md
         - 圆 :
-            - 第27课 圆的概念及性质: 基础复习/27_圆的概率及性质.md
+            - 第27课 圆的概念及性质: 基础复习/27_与圆有关的概念及性质.md
+            - 第28课 圆的位置关系: 基础复习/28_与圆有关的位置关系.md 
+            - 第29课 圆的计算: 基础复习/29_与圆有关的计算.md 
 #        - 图形变换及作图:
 #            - 第8课 实数: tun1/realnumber.md
 
 
-
+  - 教材: textbook/index.md
 #  - 七年级:
 #      - 直角三角形:
 #          - 基本性质: grade7/right_triangle/basic.md
@@ -134,7 +136,7 @@ nav:
 #      - 作业: homework/index.md
 #      - 答案: homework/answers.md
 #      - 资料下载: files/index.md
-
+  - 关于我: about.md
 extra_css:
   - assets/stylesheets/compact.css
 

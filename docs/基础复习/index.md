@@ -32,7 +32,9 @@
 - [第25课 矩形与菱形](25_矩形与菱形.md)       [下载 PPT](files/25_矩形与菱形.pptx){: .btn-mini .md-button--primary }
 - [第26课 正方形](26_正方形.md)       [下载 PPT](files/26_正方形.pptx){: .btn-mini .md-button--primary }
 ## 圆  
-- [第27课 圆的概念及性质](27_圆的概率及性质.md)
+- [第27课 与圆有关的概念及性质](27_与圆有关的概念及性质.md)        [下载 PPT](files/27_与圆有关的概念及性质.pptx){: .btn-mini .md-button--primary }
+- [第28课 与圆有关的位置关系](28_与圆有关的位置关系.md)        [下载 PPT](files/28_与圆有关的位置关系.pptx){: .btn-mini .md-button--primary }
+- [第29课 与圆有关的计算](29_与圆有关的计算.md)        [下载 PPT](files/29_与圆有关的计算.pptx){: .btn-mini .md-button--primary }
 ## 图形变换及作图  
 
 
