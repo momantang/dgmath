@@ -36,5 +36,6 @@
 - [第28课 与圆有关的位置关系](28_与圆有关的位置关系.md)        [下载 PPT](files/28_与圆有关的位置关系.pptx){: .btn-mini .md-button--primary }
 - [第29课 与圆有关的计算](29_与圆有关的计算.md)        [下载 PPT](files/29_与圆有关的计算.pptx){: .btn-mini .md-button--primary }
 ## 图形变换及作图  
-
+- [第30课 平移对称旋转对折](30_平移对称旋转对折.md)        [下载 PPT](files/30_平移对称旋转对折.pptx){: .btn-mini .md-button--primary }
+- [第31课 投影视图展开图](31_投影视图展开图.md)        [下载 PPT](files/31_投影视图展开图.pptx){: .btn-mini .md-button--primary }
 
