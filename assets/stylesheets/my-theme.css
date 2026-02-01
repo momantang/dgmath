@@ -1,0 +1,7 @@
+/* @theme your-theme */
+
+@import 'default';
+
+section {
+  background: #fc9;
+}
