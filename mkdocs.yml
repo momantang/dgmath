@@ -35,6 +35,10 @@ theme:
     hide-elements:
       - toc                 # 打印时隐藏侧边栏
 
+#exclude_docs: |
+#  textbook/
+#  drafts/
+#  *.pptx
 
 # Markdown 扩展（自动目录 + 数学友好）
 markdown_extensions:
@@ -77,7 +81,7 @@ plugins:
 nav:
   - 首页: index.md
 #  - back: indexcopy.md
-  - 基础复习:
+  - 初数基础复习:
         - 概述: 基础复习/index.md
         - 数与式:
             - 第1课 实数: 基础复习/1_实数.md
@@ -119,7 +123,7 @@ nav:
             - 第30课 平移、对称、旋转、对折: 基础复习/30_平移对称旋转对折.md 
             - 第31课 投影、视图、展开图: 基础复习/31_投影视图展开图.md 
 
-  - 重难题型: 
+  - 初数重难题型: 
         - 概述: 重难题型/index.md
         - 第1课 方程不等式的实际应用: 重难题型/1_方程不等式的实际应用.md
         - 第2课 函数的应用: 重难题型/2_函数的应用.md
@@ -128,6 +132,18 @@ nav:
         - 第7课 圆: 重难题型/7_圆.md
         - 第8课 几何变换: 重难题型/8_几何变换.md
   - 教材: textbook/index.md
+  - 关于我: about.md
+  - TODO(易错): 
+          初中数学: 易错题集/初中数学.md
+          初中物理: 易错题集/初中物理.md
+          初中化学: 易错题集/初中化学.md
+          高中数学: 易错题集/高中数学.md
+  - TODO(物化):
+        - 物理: 初中物化/物理.md
+        - 化学: 初中物化/化学.md
+  - 高中:
+        - 必修一: 高中数学/必修一.md
+        - 必修二: 高中数学/必修二.md
 #  - 七年级:
 #      - 直角三角形:
 #          - 基本性质: grade7/right_triangle/basic.md
@@ -144,7 +160,7 @@ nav:
 #      - 作业: homework/index.md
 #      - 答案: homework/answers.md
 #      - 资料下载: files/index.md
-  - 关于我: about.md
+
 extra_css:
   - assets/stylesheets/compact.css
 

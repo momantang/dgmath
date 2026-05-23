@@ -2,5 +2,6 @@
   "markdown.marp.themes": [
     "https://example.com/foo/bar/custom-theme.css",
     "D:/web/dgmath/docs/assets/stylesheets/my-theme.css"
-  ]
+  ],
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
