@@ -1,0 +1,22 @@
+---
+marp: true
+header: 初中数学简单复习
+footer: 莫说数
+theme: default
+style: |
+
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #FFF;
+  }
+  section {
+
+   padding: 40px 60px;
+  }
+  section.small {
+     font-size: 150%;
+  }
+---
+# 集合与常用逻辑用语
